@@ -1,7 +1,5 @@
-# Hello World 👋  
-## Emoji😀
-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-<!--
+### Hi there 👋   
+
 **evachen20041010/evachen20041010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
+- Emoji😀https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
