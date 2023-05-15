@@ -11,6 +11,7 @@
 - [LeetCode(C)](https://github.com/evachen20041010/LeetCode)
 - [電腦軟體設計丙檢(VisualBasic)](https://github.com/evachen20041010/VisualBasic)
 - [TQC(C)](https://github.com/evachen20041010/TQC)
+- [APCS(C++)](https://github.com/evachen20041010/APCS)
 
 ## ESP32小專題
 - [以ESP32實現簡易智慧家庭](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project)
