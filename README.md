@@ -13,14 +13,6 @@
 - [TQC(C)](https://github.com/evachen20041010/TQC)
 - [APCS(C++)](https://github.com/evachen20041010/APCS)
 
-## ESP32小專題
-- [以ESP32實現簡易智慧家庭](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project)
-
-## C#視窗程式設計小作品
-- [WPF 小畫家](https://github.com/evachen20041010/WPF_Painter/tree/r2)
-- [WPF 文件處理工具](https://github.com/evachen20041010/WPF_Document/tree/r5)
-- [WPF 學生選課系統](https://github.com/evachen20041010/WPF_SRS/tree/r7)
-
 ## 網頁
 - [網頁模板練習](https://github.com/evachen20041010/Website/tree/main)
 - [氣象實驗室](https://github.com/evachen20041010/JavaScript/tree/main/weather_website)
@@ -30,6 +22,14 @@
 - [神奇轉盤](https://github.com/evachen20041010/Wheel-master)
 - [課程學期時間表](https://github.com/evachen20041010/JavaScript/tree/main/Grp2_0510)
 - [課表](https://github.com/evachen20041010/JavaScript/tree/main/20230215)
+
+## ESP32小專題
+- [以ESP32實現簡易智慧家庭](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project)
+
+## C#視窗程式設計小作品
+- [WPF 小畫家](https://github.com/evachen20041010/WPF_Painter/tree/r2)
+- [WPF 文件處理工具](https://github.com/evachen20041010/WPF_Document/tree/r5)
+- [WPF 學生選課系統](https://github.com/evachen20041010/WPF_SRS/tree/r7)
 
 ## Emoji 😀
 - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
